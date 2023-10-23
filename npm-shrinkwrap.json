@@ -8,6 +8,9 @@
       "name": "power-bi-react-spa-starter",
       "version": "1.0.0",
       "license": "ISC",
+      "dependencies": {
+        "msalx": "^0.1.2"
+      },
       "devDependencies": {
         "@azure/msal-browser": "^2.27.0",
         "@azure/msal-react": "^1.4.3",
@@ -3563,6 +3566,11 @@
       "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz",
       "integrity": "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==",
       "dev": true
+    },
+    "node_modules/msalx": {
+      "version": "0.1.2",
+      "resolved": "https://registry.npmjs.org/msalx/-/msalx-0.1.2.tgz",
+      "integrity": "sha512-0MtTwFvHdRRNmemSWvgqe/SoUP45N1cBiTHrwYnvPmA4skd+f5eyfDHa8dP69XD1Ow8bdNhmXfaBa7r8J9DCAg=="
     },
     "node_modules/multicast-dns": {
       "version": "7.2.5",
@@ -8349,6 +8357,11 @@
       "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz",
       "integrity": "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==",
       "dev": true
+    },
+    "msalx": {
+      "version": "0.1.2",
+      "resolved": "https://registry.npmjs.org/msalx/-/msalx-0.1.2.tgz",
+      "integrity": "sha512-0MtTwFvHdRRNmemSWvgqe/SoUP45N1cBiTHrwYnvPmA4skd+f5eyfDHa8dP69XD1Ow8bdNhmXfaBa7r8J9DCAg=="
     },
     "multicast-dns": {
       "version": "7.2.5",
